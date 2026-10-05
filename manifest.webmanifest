@@ -1,0 +1,31 @@
+{
+  "name": "IELTS Vocabulary Quest",
+  "short_name": "IELTS Quest",
+  "description": "IELTS Vocabulary Quest: 19,822 IELTS questions and 2,840 flashcards, fully offline.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f6e56",
+  "theme_color": "#0f6e56",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "./icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
